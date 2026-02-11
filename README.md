@@ -67,6 +67,8 @@ This database system manages a complete healthcare facility operation including:
 
 ## Database Architecture
 
+![Alt text for the image](diagrams/physical_er_diagram.png)
+
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                         OnlineHealthCare Database                           │
